@@ -6,8 +6,8 @@
 # apt install git -y
 # apt install python -y
 # apt install python2 -y
-# git clone https://github.com/lunnar211/HackFacebokpass
-# cd HackFacebokpass
+# git clone https://github.com/sirajul26/Facebook-Hack
+# cd Facebook-Hack
 # ls
 # chmod +x *
 # ls
